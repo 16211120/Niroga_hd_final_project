@@ -1,0 +1,58 @@
+c:\users\mahesha dilhani\documents\visual studio 2015\Projects\Niroga\Niroga\bin\Debug\Niroga.exe.config
+c:\users\mahesha dilhani\documents\visual studio 2015\Projects\Niroga\Niroga\bin\Debug\Niroga.exe
+c:\users\mahesha dilhani\documents\visual studio 2015\Projects\Niroga\Niroga\bin\Debug\Niroga.pdb
+c:\users\mahesha dilhani\documents\visual studio 2015\Projects\Niroga\Niroga\obj\Debug\Niroga.csprojResolveAssemblyReference.cache
+c:\users\mahesha dilhani\documents\visual studio 2015\Projects\Niroga\Niroga\obj\Debug\Niroga.Form1.resources
+c:\users\mahesha dilhani\documents\visual studio 2015\Projects\Niroga\Niroga\obj\Debug\Niroga.Properties.Resources.resources
+c:\users\mahesha dilhani\documents\visual studio 2015\Projects\Niroga\Niroga\obj\Debug\Niroga.csproj.GenerateResource.Cache
+c:\users\mahesha dilhani\documents\visual studio 2015\Projects\Niroga\Niroga\obj\Debug\Niroga.exe
+c:\users\mahesha dilhani\documents\visual studio 2015\Projects\Niroga\Niroga\obj\Debug\Niroga.pdb
+c:\users\mahesha dilhani\documents\visual studio 2015\Projects\Niroga\Niroga\obj\Debug\Niroga.frm_menu.resources
+c:\users\mahesha dilhani\documents\visual studio 2015\Projects\Niroga\Niroga\obj\Debug\Niroga.frm_patient.resources
+C:\Users\Mahesha Dilhani\Documents\Visual Studio 2015\Projects\Niroga\Niroga\obj\Debug\Niroga.frm_drug.resources
+C:\Users\Mahesha Dilhani\documents\visual studio 2015\Projects\Niroga\Niroga\obj\Debug\Niroga.frm_report.resources
+C:\Users\Mahesha Dilhani\documents\visual studio 2015\Projects\Niroga\Niroga\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Mahesha Dilhani\documents\visual studio 2015\Projects\Niroga\Niroga\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Mahesha Dilhani\documents\visual studio 2015\Projects\Niroga\Niroga\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Mahesha Dilhani\documents\visual studio 2015\Projects\Niroga\Niroga\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Mahesha Dilhani\documents\visual studio 2015\Projects\Niroga\Niroga\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Mahesha Dilhani\documents\visual studio 2015\Projects\Niroga\Niroga\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Mahesha Dilhani\documents\visual studio 2015\Projects\Niroga\Niroga\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Mahesha Dilhani\documents\visual studio 2015\Projects\Niroga\Niroga\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Mahesha Dilhani\documents\visual studio 2015\Projects\Niroga\Niroga\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Mahesha Dilhani\documents\visual studio 2015\Projects\Niroga\Niroga\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Mahesha Dilhani\documents\visual studio 2015\Projects\Niroga\Niroga\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Mahesha Dilhani\documents\visual studio 2015\Projects\Niroga\Niroga\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Mahesha Dilhani\documents\visual studio 2015\Projects\Niroga\Niroga\obj\Debug\RdlCompile.cache
+C:\Users\Mahesha Dilhani\documents\visual studio 2015\Projects\Niroga\Niroga\obj\Debug\RdlCompile.compiled
+C:\Users\Mahesha Dilhani\Documents\Visual Studio 2015\Projects\Niroga\Niroga\obj\Debug\Niroga.frm_visit.resources
+C:\Users\Mahesha Dilhani\Documents\Visual Studio 2015\Projects\Niroga\Niroga\obj\Debug\Niroga.bill.resources
+E:\New folder\sidath\HD\HD Project\FINAL PROJECT BACKUP\Niroga\Niroga\bin\Debug\Niroga.exe.config
+E:\New folder\sidath\HD\HD Project\FINAL PROJECT BACKUP\Niroga\Niroga\obj\Debug\Niroga.exe
+E:\New folder\sidath\HD\HD Project\FINAL PROJECT BACKUP\Niroga\Niroga\obj\Debug\Niroga.pdb
+E:\New folder\sidath\HD\HD Project\FINAL PROJECT BACKUP\Niroga\Niroga\bin\Debug\Niroga.exe
+E:\New folder\sidath\HD\HD Project\FINAL PROJECT BACKUP\Niroga\Niroga\bin\Debug\Niroga.pdb
+E:\New folder\sidath\HD\HD Project\FINAL PROJECT BACKUP\Niroga\Niroga\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\New folder\sidath\HD\HD Project\FINAL PROJECT BACKUP\Niroga\Niroga\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\New folder\sidath\HD\HD Project\FINAL PROJECT BACKUP\Niroga\Niroga\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\New folder\sidath\HD\HD Project\FINAL PROJECT BACKUP\Niroga\Niroga\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\New folder\sidath\HD\HD Project\FINAL PROJECT BACKUP\Niroga\Niroga\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\New folder\sidath\HD\HD Project\FINAL PROJECT BACKUP\Niroga\Niroga\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\New folder\sidath\HD\HD Project\FINAL PROJECT BACKUP\Niroga\Niroga\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\New folder\sidath\HD\HD Project\FINAL PROJECT BACKUP\Niroga\Niroga\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\New folder\sidath\HD\HD Project\FINAL PROJECT BACKUP\Niroga\Niroga\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\New folder\sidath\HD\HD Project\FINAL PROJECT BACKUP\Niroga\Niroga\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\New folder\sidath\HD\HD Project\FINAL PROJECT BACKUP\Niroga\Niroga\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\New folder\sidath\HD\HD Project\FINAL PROJECT BACKUP\Niroga\Niroga\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\New folder\sidath\HD\HD Project\FINAL PROJECT BACKUP\Niroga\Niroga\obj\Debug\Niroga.csprojResolveAssemblyReference.cache
+E:\New folder\sidath\HD\HD Project\FINAL PROJECT BACKUP\Niroga\Niroga\obj\Debug\Niroga.bill.resources
+E:\New folder\sidath\HD\HD Project\FINAL PROJECT BACKUP\Niroga\Niroga\obj\Debug\Niroga.Form1.resources
+E:\New folder\sidath\HD\HD Project\FINAL PROJECT BACKUP\Niroga\Niroga\obj\Debug\Niroga.frm_drug.resources
+E:\New folder\sidath\HD\HD Project\FINAL PROJECT BACKUP\Niroga\Niroga\obj\Debug\Niroga.frm_menu.resources
+E:\New folder\sidath\HD\HD Project\FINAL PROJECT BACKUP\Niroga\Niroga\obj\Debug\Niroga.frm_patient.resources
+E:\New folder\sidath\HD\HD Project\FINAL PROJECT BACKUP\Niroga\Niroga\obj\Debug\Niroga.frm_report.resources
+E:\New folder\sidath\HD\HD Project\FINAL PROJECT BACKUP\Niroga\Niroga\obj\Debug\Niroga.frm_visit.resources
+E:\New folder\sidath\HD\HD Project\FINAL PROJECT BACKUP\Niroga\Niroga\obj\Debug\Niroga.Properties.Resources.resources
+E:\New folder\sidath\HD\HD Project\FINAL PROJECT BACKUP\Niroga\Niroga\obj\Debug\Niroga.csproj.GenerateResource.Cache
+E:\New folder\sidath\HD\HD Project\FINAL PROJECT BACKUP\Niroga\Niroga\obj\Debug\RdlCompile.cache
+E:\New folder\sidath\HD\HD Project\FINAL PROJECT BACKUP\Niroga\Niroga\obj\Debug\RdlCompile.compiled
